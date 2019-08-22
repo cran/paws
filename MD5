@@ -1,7 +1,8 @@
-413a6e6a556cc226cde0358ebf2bd4e4 *DESCRIPTION
+e39e2fe2e39095f60b49f02d59c5450f *DESCRIPTION
 0fb46b5d428376bc6e1a4d5c303205e0 *NAMESPACE
-7e9eb6cff5f0b2042038fc65ad256b96 *R/paws.R
-88abe27bcc345af65066f4c50ae086c6 *man/acm.Rd
+97ccca0e2683b74990c4b8aca5569c9c *NEWS.md
+0a4be993877682d35ce82384b7dd515a *R/paws.R
+06951d45bad3c7aa129a4c3fb3885bc3 *man/acm.Rd
 9217cedb85e2c50f660207e04f2463bb *man/acmpca.Rd
 048350923734f8b4aa07ee966683b6fb *man/apigateway.Rd
 212bd7320c98d0b4a77c0ed5f082d94d *man/apigatewaymanagementapi.Rd
@@ -70,7 +71,7 @@ ea932110703d819e728636215165d9f0 *man/kafka.Rd
 ee1c9bdbfce048c68ed3dbc56770b3f9 *man/kinesis.Rd
 7d183f59159a344485c360e0b599e3ce *man/kinesisanalytics.Rd
 0d1640f1ef372a0a99425f72a49d9de2 *man/kinesisanalyticsv2.Rd
-faae82eb3cb2d2f44d644d64be05b63b *man/kms.Rd
+9253dc9446d3716213b34ab7237a125b *man/kms.Rd
 ba81b427bcb3f67bb711ab3b5e288330 *man/lambda.Rd
 ee05a94e81db11aad2c3b843a01a2fb8 *man/lexmodelbuildingservice.Rd
 f8ee0e4cd137dd623d0df494fab25685 *man/lexruntimeservice.Rd
