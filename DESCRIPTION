@@ -1,6 +1,6 @@
 Package: paws
 Title: Amazon Web Services Software Development Kit
-Version: 0.1.6
+Version: 0.1.7
 Authors@R: 
     c(person(given = "David",
              family = "Kretch",
@@ -17,21 +17,21 @@ Description: Interface to Amazon Web Services <https://aws.amazon.com>,
     Storage Service' ('S3'), 'DynamoDB' 'NoSQL' database, and 'Lambda'
     functions-as-a-service.
 License: Apache License (>= 2.0)
-Imports: paws.compute (>= 0.1.6), paws.storage (>= 0.1.6),
-        paws.database (>= 0.1.6), paws.networking (>= 0.1.6),
-        paws.management (>= 0.1.6), paws.machine.learning (>= 0.1.6),
-        paws.analytics (>= 0.1.6), paws.security.identity (>= 0.1.6),
-        paws.application.integration (>= 0.1.6), paws.cost.management
-        (>= 0.1.6), paws.customer.engagement (>= 0.1.6)
+Imports: paws.compute (>= 0.1.7), paws.storage (>= 0.1.7),
+        paws.database (>= 0.1.7), paws.networking (>= 0.1.7),
+        paws.management (>= 0.1.7), paws.machine.learning (>= 0.1.7),
+        paws.analytics (>= 0.1.7), paws.security.identity (>= 0.1.7),
+        paws.application.integration (>= 0.1.7), paws.cost.management
+        (>= 0.1.7), paws.customer.engagement (>= 0.1.7)
 Suggests: testthat
 Encoding: UTF-8
 LazyData: true
-RoxygenNote: 7.0.2
+RoxygenNote: 7.1.0
 NeedsCompilation: no
-Packaged: 2020-01-15 00:05:33 UTC; david.kretch
+Packaged: 2020-03-31 02:28:34 UTC; david.kretch
 Author: David Kretch [aut, cre],
   Adam Banker [aut],
   Amazon.com, Inc. [cph]
 Maintainer: David Kretch <david.kretch@gmail.com>
 Repository: CRAN
-Date/Publication: 2020-01-15 07:00:02 UTC
+Date/Publication: 2020-03-31 15:30:06 UTC
