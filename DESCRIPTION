@@ -1,17 +1,12 @@
 Package: paws
 Title: Amazon Web Services Software Development Kit
-Version: 0.1.12
-Authors@R: 
-    c(person(given = "David",
-             family = "Kretch",
-             role = c("aut", "cre"),
-             email = "david.kretch@gmail.com"),
-      person(given = "Adam",
-             family = "Banker",
-             role = "aut",
-             email = "adam.banker39@gmail.com"),
-      person(given = "Amazon.com, Inc.",
-             role = "cph"))
+Version: 0.2.0
+Authors@R: c(
+    person("David", "Kretch", , "david.kretch@gmail.com", role = "aut"),
+    person("Adam", "Banker", , "adam.banker39@gmail.com", role = "aut"),
+    person("Dyfan", "Jones", , "dyfan.r.jones@gmail.com", role = "cre"),
+    person("Amazon.com, Inc.", role = "cph")
+  )
 Description: Interface to Amazon Web Services <https://aws.amazon.com>,
     including storage, database, and compute services, such as 'Simple
     Storage Service' ('S3'), 'DynamoDB' 'NoSQL' database, and 'Lambda'
@@ -19,22 +14,22 @@ Description: Interface to Amazon Web Services <https://aws.amazon.com>,
 License: Apache License (>= 2.0)
 URL: https://github.com/paws-r/paws
 BugReports: https://github.com/paws-r/paws/issues
-Imports: paws.analytics (>= 0.1.12), paws.application.integration (>=
-        0.1.12), paws.compute (>= 0.1.12), paws.cost.management (>=
-        0.1.12), paws.customer.engagement (>= 0.1.12), paws.database
-        (>= 0.1.12), paws.developer.tools (>= 0.1.12),
-        paws.end.user.computing (>= 0.1.12), paws.machine.learning (>=
-        0.1.12), paws.management (>= 0.1.12), paws.networking (>=
-        0.1.12), paws.security.identity (>= 0.1.12), paws.storage (>=
-        0.1.12)
+Imports: paws.analytics (>= 0.2.0), paws.application.integration (>=
+        0.2.0), paws.compute (>= 0.2.0), paws.cost.management (>=
+        0.2.0), paws.customer.engagement (>= 0.2.0), paws.database (>=
+        0.2.0), paws.developer.tools (>= 0.2.0),
+        paws.end.user.computing (>= 0.2.0), paws.machine.learning (>=
+        0.2.0), paws.management (>= 0.2.0), paws.networking (>= 0.2.0),
+        paws.security.identity (>= 0.2.0), paws.storage (>= 0.2.0)
 Suggests: testthat
 Encoding: UTF-8
-RoxygenNote: 7.1.1
+RoxygenNote: 7.2.2
 NeedsCompilation: no
-Packaged: 2021-09-02 23:50:19 UTC; david.kretch
-Author: David Kretch [aut, cre],
+Packaged: 2023-02-09 15:03:39 UTC; dyfanjones
+Author: David Kretch [aut],
   Adam Banker [aut],
+  Dyfan Jones [cre],
   Amazon.com, Inc. [cph]
-Maintainer: David Kretch <david.kretch@gmail.com>
+Maintainer: Dyfan Jones <dyfan.r.jones@gmail.com>
 Repository: CRAN
-Date/Publication: 2021-09-03 04:50:11 UTC
+Date/Publication: 2023-02-09 15:40:02 UTC
